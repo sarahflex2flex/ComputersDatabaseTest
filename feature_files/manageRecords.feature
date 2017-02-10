@@ -1,7 +1,7 @@
-Feature: Running Cucumber with Protractor
-    As a user of Protractor
-    I should be able to use Cucumber
-    In order to run my E2E tests
+Feature: Manage database records
+    As a user
+    I should be able to manage records
+    So that the database stays up to date
 
     Scenario: Create a new record
         Given I am on the computer database site
