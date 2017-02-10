@@ -1,3 +1,4 @@
 module.exports = {
- newComputerButton: element(by.css('.btn'))
+
+ newComputerButton: dv.findElement(by.id('add'))
 };
